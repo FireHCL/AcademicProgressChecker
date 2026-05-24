@@ -8,3 +8,6 @@ Features:
 - Academic insult generator
 - Exist dramatically option
 - Zero practical value
+# Running the assistant
+To run this download both -emotionallyUnstable.java and -RUN.bat
+Then open the bat file
